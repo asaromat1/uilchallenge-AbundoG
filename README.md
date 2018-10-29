@@ -7,12 +7,21 @@ Input: An initial value N, followed by N pairs of positive integers A and B, wit
 Output: The sum, positive difference, product, and quotient (formatted to two places, always >= 1.0) of each integer pair.
 ## Sample Input:
 4
+
 10 4
+
 14 20
+
 25 15
+
 100 34
+
 ## Sample Output:
 14 6 40 2.50
+
 34 6 280 1.43
+
 40 10 375 1.67
+
 134 66 3400 2.94
+
